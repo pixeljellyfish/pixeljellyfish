@@ -11,5 +11,5 @@ I'm pixeljellyfish i'm a ios tweak, web, programme developer. Here are some of m
   - [pixeljellyfish.xyz](https://github.com/devpixel12/pixeljellyfish.xyz)
 
 
-## This week's coding stats:
+## my top programme language:
 ![Top Langs](https://github-profile-stats.vercel.app/api/top-langs/?username=devpixel12&layout=compact&theme=algolia)
