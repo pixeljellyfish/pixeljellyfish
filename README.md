@@ -4,11 +4,10 @@
 
 I'm pixeljellyfish i'm a ios tweak, web, programme developer. Here are some of my projects
 
-  - [c0mebackf0lders](https://github.com/devpixel12/c0mebackF0lders)(a tweak to prevent ios from deleting folders )
-  - [capsule](http://web.capsule.live/)
-  - [notepad++](https://github.com/Pixel-Fire-Studios/NotePad-plus-plus)
-  - [cydia repo](https://github.com/devpixel12/repo)
-  - [pixeljellyfish.xyz](https://github.com/devpixel12/pixeljellyfish.xyz)
+  - [c0mebackf0lders](https://github.com/devpixel12/c0mebackF0lders) (A Tweak to Prevent iOS from Deleting Folders )
+  - [capsule](http://web.capsule.live/) (A Modern Package Manager design for ios 13 and up created in SwiftUI)
+  - [cydia repo](https://github.com/devpixel12/repo) (A cydai where i host  all my tweak that are in beta)
+  - [pixeljellyfish.xyz](https://github.com/devpixel12/pixeljellyfish.xyz) (my own website that is open source to help other better understand html and css)
 
 
 ## my top programme language:
