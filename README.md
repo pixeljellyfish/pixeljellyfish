@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with **code**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devpixel12](https://github.com/devpixel12)
+- 👨‍💻 All of my projects are available at [https://github.com/devpixel12](https://github.com/devpixel12?tab=repositories)
 
 - 💬 Ask me about **Obj-c, SwiftUI, Obj-c++, Plist, Html, Css, java/javascript**
 
