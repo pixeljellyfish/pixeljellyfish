@@ -1,4 +1,4 @@
-![pixeljellyfish's github stats](https://github-profile-stats.vercel.app/api?username=devpixel12&count_private=true&&theme=algolia&show_icons=true&show_owner)
+![pixeljellyfish's github stats](https://github-profile-stats.vercel.app/api?username=devpixel12&count_private=true&count_forked=true&&theme=algolia&show_icons=true&show_owner)
 
 # Hi There 🙃
 
@@ -10,5 +10,5 @@ I'm pixeljellyfish i'm a ios tweak, web, programme developer. Here are some of m
   - [pixeljellyfish.xyz](https://github.com/devpixel12/pixeljellyfish.xyz) (my own website that is open source to help others better understand html and css)
 
 
-## my top programme language:
+## my top programe language:
 ![Top Langs](https://github-profile-stats.vercel.app/api/top-langs/?username=devpixel12&layout=compact&theme=algolia)
