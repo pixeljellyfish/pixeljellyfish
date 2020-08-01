@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devpixel12" alt="devpixel12" /></p>
 
 
-- 🔭 I’m currently working on [capsule](https://github.com/capsule-development/Capsule)
+- 🔭 I’m currently working on [capsule](https://github.com/capsule-development)
 
 - 🌱 I’m currently learning **swiftUI**
 
