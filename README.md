@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙃, I'm pixeljellyfish</h1>
 <h3 align="center">A passionate ios tweak, web, program developer. Here are some of my projects i live in australia</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=devpixel12" alt="devpixel12" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=pixeljellyfish" alt="pixeljellyfish" /></p>
 
 
 - 🔭 I’m currently working on [capsule](https://github.com/capsule-development)
@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with **code**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devpixel12](https://github.com/pixeljellyfish?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/pixeljellyfish](https://github.com/pixeljellyfish?tab=repositories)
 
 - 💬 Ask me about **Obj-c, SwiftUI, Obj-c++, Plist, Html, Css, java/javascript**
 
