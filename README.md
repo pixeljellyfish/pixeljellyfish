@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pixeljellyfish" alt="pixeljellyfish" /></p>
 
 
-- 🔭 I’m currently working on [capsule](https://github.com/capsule-development)
+- 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
 
 - 🌱 I’m currently learning **swiftUI**
 
