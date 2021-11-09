@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
 
-- 🌱 I’m currently learning **swiftUI**
+- 🌱 I’m currently learning **React-native**
 
-- 🤔 I’m looking for help with **code**
+- 🤔 I’m looking for help with **SwiftUi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pixeljellyfish](https://github.com/pixeljellyfish?tab=repositories)
 
