@@ -41,8 +41,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/>&nbsp; <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/>&nbsp; <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"/></p><p align="center">&nbsp; <img 
-src="https://github-readme-stats.vercel.app/api?username=pixeljellyfish&show_icons=true&theme=radical&count_private=true"/> <img 
-src="https://github-stats-blue.vercel.app/api/wakatime?username=pixeljellyfish&theme=radical&layout=compact"/></p>
+src="https://github-readme-stats.vercel.app/api?username=pixeljellyfish&show_icons=true&theme=radical&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/> <img 
+src="https://github-stats-blue.vercel.app/api/wakatime?username=pixeljellyfish&theme=radical&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></p>
 
 <p align="center">
 <a href="https://codepen.io/dev_pixel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dev_pixel12" height="20" width="20"/></a>
