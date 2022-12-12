@@ -27,6 +27,10 @@
 | pixeljellyfish.xyz  | https://github.com/pixeljellyfish/pixeljellyfish.xyz  | my own website that is open source to help others better understand html and css  |
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="center">&nbsp; <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width="20" height="20"/>&nbsp; <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20" height="20"/>&nbsp; <img 
