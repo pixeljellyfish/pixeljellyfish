@@ -38,7 +38,7 @@
 
 > 🏆 2 Contributions in the Year 2023
  > 
-> 📦 711.1 kB Used in GitHub's Storage 
+> 📦 711.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,6 +46,48 @@
  > 
 > 🔑 26 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+🌆 Daytime    80 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+🌃 Evening    137 commits    ███████████░░░░░░░░░░░░░░   43.91% 
+🌙 Night      88 commits     ███████░░░░░░░░░░░░░░░░░░   28.21%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       100 commits    ████████░░░░░░░░░░░░░░░░░   32.05% 
+Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Wednesday    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Friday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Brisbane
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +105,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pixeljellyfish/pixeljellyfish/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:40:34 UTC
+ Last Updated on 14/01/2023 18:38:21 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&nbsp; <img
