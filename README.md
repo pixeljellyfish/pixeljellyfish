@@ -1,9 +1,20 @@
 <h1 align="center">Hi 🙃, I'm pixeljellyfish</h1>
 <h3 align="center">A passionate ios tweak, web, program developer. Here are some of my projects i live in australia</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
 
-![](https://komarev.com/ghpvc/?username=pixeljellyfish&style=flat-square)
+<div align="center">
+ 
+ [![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
+</div>
+ 
+ 
+ 
+<div align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=pixeljellyfish&style=flat-square)
+ </div>
+ 
+ 
 
 
 
