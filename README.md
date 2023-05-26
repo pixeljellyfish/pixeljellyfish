@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🙃, I'm pixeljellyfish</h1>
 <h3 align="center">A passionate ios tweak, web, program developer. Here are some of my projects i live in australia</h3>
-[![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
+![hi](https://lanyard.cnrad.dev/api/746276722902695957)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=pixeljellyfish" alt="pixeljellyfish" /></p>
+
 
 
 - 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
