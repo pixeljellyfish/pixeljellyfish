@@ -43,8 +43,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
@@ -83,26 +81,6 @@ Sunday          24 commits       ██░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Australia/Brisbane
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,12 +94,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 **Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/pixeljellyfish/pixeljellyfish/master/charts/bar_graph.png) 
-
-
  Last Updated on 16/02/2023 18:39:49 UTC
-<!--END_SECTION:waka-->
 
 <p align="center">&nbsp; <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width="20" height="20"/>&nbsp; <img 
@@ -137,8 +110,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/>&nbsp; <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/>&nbsp; <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"/></p><p align="center">&nbsp; <img 
-src="https://github-readme-stats.vercel.app/api?username=pixeljellyfish&show_icons=true&theme=radical&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/> <img 
-src="https://github-stats-blue.vercel.app/api/wakatime?username=pixeljellyfish&theme=radical&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></p>
 
 <p align="center">
 <a href="https://codepen.io/dev_pixel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dev_pixel12" height="20" width="20"/></a>
