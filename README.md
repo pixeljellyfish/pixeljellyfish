@@ -1,13 +1,20 @@
 <h1 align="center">Hi 🙃, I'm pixeljellyfish</h1>
 <h3 align="center">A passionate ios tweak, web, program developer. Here are some of my projects i live in australia</h3>
 
+
 <div align="center">
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
 </div>
 
-- 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
+<!--START_SECTION:waka-->
+<div align="center">
+ 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+</div>
 
+- 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
+  
 - 🌱 I’m currently learning **React-native**
 
 - 🤔 I’m looking for help with **SwiftUi**
@@ -30,55 +37,7 @@
 | pixeljellyfish.xyz  | https://github.com/pixeljellyfish/pixeljellyfish.xyz  | my own website that is open source to help others better understand html and css  |
 </p>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 25 Contributions in the Year 2023
- > 
-> 📦 712.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 27 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning        7 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-🌆 Daytime       84 commits       ██████░░░░░░░░░░░░░░░░░░░   27.45 % 
-🌃 Evening      131 commits       ██████████░░░░░░░░░░░░░░░   42.81 % 
-🌙 Night         84 commits       ██████░░░░░░░░░░░░░░░░░░░   27.45 % 
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday         104 commits       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Tuesday         39 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday       22 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Thursday        44 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Friday          36 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday        37 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Sunday          24 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-
-```
 
 
 **Timeline**
