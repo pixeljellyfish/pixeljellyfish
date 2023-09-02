@@ -4,18 +4,27 @@
 
 <div align="center">
  
- [![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
+[![wakatime](https://wakatime.com/badge/user/626bd6b0-097b-4c31-ba38-a876901caf86.svg?style=for-the-badge)](https://wakatime.com/@626bd6b0-097b-4c31-ba38-a876901caf86)
 </div>
 
-<!--START_SECTION:waka-->
 <div align="center">
  
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+[![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
 </div>
+
+<!--START_SECTION:Github Stats-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixeljellyfish&count_private=true&show_icons=true&theme=tokyonight&hide_border=True&hide_title=True)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeljellyfish&theme=tokyonight&layout=compact&langs_count=10" />
+</a>
+
 
 - 🔭 I’m currently working on [Pixel-Fire-Studios](https://github.com/Pixel-Fire-Studios)
   
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **Unity Game Development**
 
 - 🤔 I’m looking for help with **SwiftUi**
 
@@ -27,18 +36,16 @@
 
 - ⚡ Fun fact **i like coding coz why not**
 
-<p align="center">
-
-| project name  | repo          | description  |
-| ------------- |:-------------:| ------------:|
-| c0mebackf0lders  | https://github.com/pixeljellyfish/c0mebackF0lders  | A Tweak to Prevent iOS from Deleting Folders  |
-| capsule  | http://web.capsule.live/  | A Modern Package Manager design for ios 13 and up created in SwiftUI  |
-| cydia repo  | https://github.com/pixeljellyfish/repo  | A cydia repo where i host  all my tweak that are in beta  |
-| pixeljellyfish.xyz  | https://github.com/pixeljellyfish/pixeljellyfish.xyz  | my own website that is open source to help others better understand html and css  |
-</p>
-
-
-
+<div align="center">
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=repo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=c0mebackf0lders&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=ios-headers&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=code.pixeljellyfish.xyz&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=linux-stuff&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=wintrail&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeljellyfish&repo=tweak-manager&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 **Timeline**
  Last Updated on 16/02/2023 18:39:49 UTC
