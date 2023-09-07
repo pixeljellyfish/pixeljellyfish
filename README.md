@@ -9,7 +9,7 @@
 
 <div align="center">
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/746276722902695957)](https://discord.com/users/746276722902695957)
+[![Discord Presence](https://lanyard.cnrad.dev/api/454648470012166155)](https://discord.com/users/454648470012166155)
 </div>
 
 <!--START_SECTION:Github Stats-->
